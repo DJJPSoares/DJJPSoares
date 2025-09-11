@@ -1,8 +1,11 @@
 # 👨🏻‍💻 João Paulo Gondim Soares
 
-**`Desenvolvedor FullStack | Educador em Física`**
+**`Desenvolvedor FullStack | Educador em Física | Poliglota`**
 
-Me chamo João Paulo Gondim Soares, sou apaixonado por ciência, tecnologia e educação. Atualmente curso Física na Universidade de Brasília (UnB), onde desenvolvo atividades voltadas ao ensino de ciências, com foco em experimentação, simulações computacionais e divulgação científica. Tenho interesse em unir a programação com a educação, criando projetos que aproximem estudantes da Física e da Tecnologia.  
+Me chamo João Paulo Gondim Soares, sou desenvolvedor FullStack, formado em Ciências da Computação pela Universidade Católica de Brasília (UCB) e em Física pela Universidade de Brasília (UnB).  
+Sou apaixonado por ciência, tecnologia e educação, com experiência em experimentação, simulações computacionais e divulgação científica.  
+Tenho interesse em unir programação e ensino, criando projetos que aproximem estudantes da Física e da Tecnologia.  
+Além disso, sou saxofonista 🎷, poliglota 🌍 (inglês, francês e espanhol) e praticante de artes marciais 🥋.  
 
 <p align="left">
     <a href="https://github.com/joaopaulogondimsoares?tab=followers">
